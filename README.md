@@ -1,6 +1,3 @@
-Sure, based on the provided code snippets and the general structure of the project, here is a README.md file for your GitHub repository:
-
-```markdown
 # Online Trading Platform
 
 This is a React Native application for an online stock trading platform.
